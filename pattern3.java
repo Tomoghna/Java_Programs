@@ -25,6 +25,6 @@ public class pattern3
 				System.out.print("*");
 			System.out.println();
 		}
-		Scanner.close();
+		scanner.close();
 	}
 }

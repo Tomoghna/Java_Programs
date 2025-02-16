@@ -1,6 +1,6 @@
-import java.utit.Scanner;
+import java.util.Scanner;
 
-public class pattern4.java
+public class pattern4
 {
 	public static void main(String[] args)
 	{
