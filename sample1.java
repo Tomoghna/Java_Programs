@@ -12,6 +12,8 @@ class practice
 		String s = sc.nextLine();
 		System.out.println("Your number is: " + n);
 		System.out.println("Your name is: " + s);
+
+		sc.close();
 		
 	}
 }
